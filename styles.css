@@ -136,16 +136,18 @@ footer {
 
 .success-msg {
   width: 50vw;
-  height: 10vh;
+  height: 5vw;
   margin-bottom: 1vw;
   color: #270;
   background-color: #DFF2BF;
-  display: flex; /* Use flexbox */
-  justify-content: center; /* Center horizontally */
-  align-items: center; /* Center vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
   border-radius: 5px;
+  font-size: 2vw;
   display: none;
 }
+
 
 .success-msg i {
   margin-right: 5px; /* Adjust the margin as needed */
